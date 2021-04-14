@@ -20,5 +20,7 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "copy-webpack-plugin": "^6.2.1"
+  }
 }
